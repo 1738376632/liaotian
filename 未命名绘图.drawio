@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
   <diagram name="第 1 页" id="AGeTJb8UVXcxk-UrsSAC">
-    <mxGraphModel dx="2333" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,8 +327,16 @@
         <mxCell id="WU8Q_QROA6nWLspVZ2c3-47" value="就是是说美，说漂亮，但是每个人说漂亮的程度和角度不同，我们该怎么解决呢" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-100" y="470" width="172" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="WU8Q_QROA6nWLspVZ2c3-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WU8Q_QROA6nWLspVZ2c3-48" target="WU8Q_QROA6nWLspVZ2c3-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WU8Q_QROA6nWLspVZ2c3-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WU8Q_QROA6nWLspVZ2c3-48" target="WU8Q_QROA6nWLspVZ2c3-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="307" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-594" y="-50" />
+              <mxPoint x="-590" y="-50" />
+              <mxPoint x="-590" y="-490" />
+              <mxPoint x="-680" y="-490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WU8Q_QROA6nWLspVZ2c3-55" value="既然观点不一样也是共鸣，那共鸣的特点是什么呢" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WU8Q_QROA6nWLspVZ2c3-54">
           <mxGeometry x="-0.1177" relative="1" as="geometry">
@@ -338,8 +346,14 @@
         <mxCell id="WU8Q_QROA6nWLspVZ2c3-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;朋友觉得：广州塔的日出，日落代表着时间流逝&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;我觉得：时间悄悄的流逝我们却一事无成&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;朋友觉得：时间的流逝代表着活着，只要活着就有希望，年纪轻轻的怎么能说一事无成呢&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-799.06" y="240" width="410" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="WU8Q_QROA6nWLspVZ2c3-53" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-29.999999999999943" y="277" width="120" height="60" as="geometry" />
+        <mxCell id="WU8Q_QROA6nWLspVZ2c3-60" value="真正的共鸣是，大家在一条直线上，交叉前进，如果在某处停止不动了，就说明不是共鸣了" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-210" width="320" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="WU8Q_QROA6nWLspVZ2c3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WU8Q_QROA6nWLspVZ2c3-65" target="WU8Q_QROA6nWLspVZ2c3-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WU8Q_QROA6nWLspVZ2c3-65" value="&lt;h3 style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 20px; line-height: 30px; font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 32px 0px 16px; color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;所以，情感共鸣的关键不是“想法一致”，而是“情感同频”&lt;/h3&gt;&lt;p style=&quot;margin: 16px 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ds-markdown-paragraph&quot;&gt;它意味着：&lt;/p&gt;&lt;ul style=&quot;margin: 16px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;我理解了你的情绪从何而来&lt;/span&gt;（我理解了你的焦虑是基于自省，而非懒惰）。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;我尊重你持有这种情绪的权利&lt;/span&gt;（我没有否定你说“你不该这么想”）。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;我试图在你的情感框架内与你连接&lt;/span&gt;（朋友在您的“焦虑”框架内，给予了“希望”的引导，而非粗暴地打断）。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-774" width="630" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
