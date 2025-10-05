@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5" pages="2">
   <diagram name="第 1 页" id="SxSbMB0uR9IlXzEwxC12">
     <mxGraphModel dx="1506" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="as75IXR2-DBPwpFutZNr-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="as75IXR2-DBPwpFutZNr-21" target="as75IXR2-DBPwpFutZNr-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as75IXR2-DBPwpFutZNr-71" value="假设" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" parent="as75IXR2-DBPwpFutZNr-70" vertex="1" connectable="0">
-          <mxGeometry x="0.0097" y="-1" relative="1" as="geometry">
+        <mxCell id="y1q0LL2UxfEu2n5yEOl0-31" value="案例" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="as75IXR2-DBPwpFutZNr-70">
+          <mxGeometry x="0.0011" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -250,7 +250,7 @@
           <mxGeometry x="1491" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1q0LL2UxfEu2n5yEOl0-19" value="一次完整的对话聊天就应该是这样的" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="980" width="180" height="120" as="geometry" />
+          <mxGeometry x="1879.06" y="1020" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="y1q0LL2UxfEu2n5yEOl0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1q0LL2UxfEu2n5yEOl0-23" target="as75IXR2-DBPwpFutZNr-67">
           <mxGeometry relative="1" as="geometry" />
@@ -265,6 +265,29 @@
         </mxCell>
         <mxCell id="y1q0LL2UxfEu2n5yEOl0-26" value="认真处理接收信息" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1555" width="119" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lzCFCNxhitmqsADL9MBi" name="第 2 页">
+    <mxGraphModel dx="1506" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-1" target="8wi_zd2EPul3jzbxY9zx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-1" value="暴露自己的信息，比如，爱好，性格，喜欢吃什么，和当前的状态，对未来的看法等等，所以开始的对话不是" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-2" target="8wi_zd2EPul3jzbxY9zx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-6" value="案例" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
