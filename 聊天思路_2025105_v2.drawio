@@ -376,8 +376,14 @@
         <mxCell id="8wi_zd2EPul3jzbxY9zx-33" value="用心收集他的信息，找到他的爱好，这样就可以了吗？可以分多次收集他的信息找到他的爱好，生活态度以及喜好" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1710" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8wi_zd2EPul3jzbxY9zx-35" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1925" width="120" height="60" as="geometry" />
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-35" target="8wi_zd2EPul3jzbxY9zx-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-35" value="不是，这只是交流的基础，还要有共同的一些经历，和相互之间的帮助，有了这些就可以了吗" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1925" width="220" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-38" value="沟通就是一个获取信息和看法的过程" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2087.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
