@@ -333,8 +333,51 @@
         <mxCell id="8wi_zd2EPul3jzbxY9zx-22" value="这没有什么是百分百正确的，失败并不可怕重要的是下一步" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-25.5" y="1102.5" width="441" height="205" as="geometry" />
         </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-24" target="8wi_zd2EPul3jzbxY9zx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-28" value="假设" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wi_zd2EPul3jzbxY9zx-27">
+          <mxGeometry x="-0.0065" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8wi_zd2EPul3jzbxY9zx-24" value="但是我应该如何抛出话题，问那一方面的事情呢" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="1450" width="175" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-26" target="8wi_zd2EPul3jzbxY9zx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="1615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-31" value="下一步的我应该怎么办" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wi_zd2EPul3jzbxY9zx-30">
+          <mxGeometry x="-0.2633" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;他说：&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;你好，我叫李丽。” / “叫我David就行。&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="33.75" y="1441.25" width="322.5" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-32" target="8wi_zd2EPul3jzbxY9zx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot; align=&quot;justify&quot; style=&quot;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&amp;lt;br/&amp;gt;line-height:200%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" id="8wi_zd2EPul3jzbxY9zx-32">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1620" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wi_zd2EPul3jzbxY9zx-33" target="8wi_zd2EPul3jzbxY9zx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-37" value="这样子就够了吗，在一起聊一聊聊的来就能成为好朋友，不我觉得这些是交流的基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wi_zd2EPul3jzbxY9zx-36">
+          <mxGeometry x="-0.0819" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-33" value="用心收集他的信息，找到他的爱好，这样就可以了吗？可以分多次收集他的信息找到他的爱好，生活态度以及喜好" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1710" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8wi_zd2EPul3jzbxY9zx-35" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1925" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
