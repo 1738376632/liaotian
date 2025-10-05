@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5" pages="2">
   <diagram name="第 1 页" id="SxSbMB0uR9IlXzEwxC12">
-    <mxGraphModel dx="1506" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1116" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lzCFCNxhitmqsADL9MBi" name="第 2 页">
-    <mxGraphModel dx="2333" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,10 +380,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8wi_zd2EPul3jzbxY9zx-35" value="不是，这只是交流的基础，还要有共同的一些经历，和相互之间的帮助，有了这些就可以了吗" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1925" width="220" height="75" as="geometry" />
+          <mxGeometry x="110" y="1930" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8wi_zd2EPul3jzbxY9zx-38" value="沟通就是一个获取信息和看法的过程" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2087.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
