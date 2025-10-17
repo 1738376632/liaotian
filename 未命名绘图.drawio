@@ -311,6 +311,63 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-1" target="yPwO-NxsoEgP8xCJXwc1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-1" value="为什么会这样，是因为你想的太多了，现在先要关注眼前的东西，你想那么多干嘛呢，你要是这么想，你一辈子都不会开心的，人总是会死你还那么努力干嘛呢" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-2" target="yPwO-NxsoEgP8xCJXwc1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-2" value="按照你以前的想法，你要做自媒体实现财务自由" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-4" target="yPwO-NxsoEgP8xCJXwc1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-4" value="怎样才叫财务自由呢？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-6" target="yPwO-NxsoEgP8xCJXwc1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-6" value="你想要一个月赚多少钱呢？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-8" target="yPwO-NxsoEgP8xCJXwc1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-8" value="你应该怎么做呢" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-10" target="yPwO-NxsoEgP8xCJXwc1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-10" target="yPwO-NxsoEgP8xCJXwc1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-10" value="我想要一个月月入百万，" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-12" target="yPwO-NxsoEgP8xCJXwc1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-12" value="你觉得这个现实吗。你现在月入多少钱呢" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-14" value="月入0元可能可以月入5000元左右" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPwO-NxsoEgP8xCJXwc1-16" target="yPwO-NxsoEgP8xCJXwc1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-16" value="怎么才能·月入百万，依靠什么赚这么多钱" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPwO-NxsoEgP8xCJXwc1-18" value="就坐在·这里玩可以月入百万吗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
