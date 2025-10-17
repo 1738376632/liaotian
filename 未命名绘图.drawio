@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7" pages="3">
   <diagram name="第 1 页" id="AGeTJb8UVXcxk-UrsSAC">
     <mxGraphModel dx="2333" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,6 +226,91 @@
         <mxCell id="OgMQkcCX62AdkXGcFwHr-4" value="这需要训练，使用连接词平稳的过渡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Bx6yZ8XrSgNCIQ8utdJ8" name="第 2 页">
+    <mxGraphModel dx="1506" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-1" target="HQ7Udl6bZPB1m5nYYWy9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-1" value="你在害怕什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-2" target="HQ7Udl6bZPB1m5nYYWy9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-2" value="我害怕太累了做不了" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-4" target="HQ7Udl6bZPB1m5nYYWy9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-4" value="做不了就不做吧" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-6" target="HQ7Udl6bZPB1m5nYYWy9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-6" value="谁叫你做呢" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-8" target="HQ7Udl6bZPB1m5nYYWy9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-8" value="少点钱就少点钱吧" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-10" target="HQ7Udl6bZPB1m5nYYWy9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-10" value="以后可以去当保安" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-12" target="HQ7Udl6bZPB1m5nYYWy9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-12" value="只有经历过才会更努力" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-14" target="HQ7Udl6bZPB1m5nYYWy9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-14" value="你看你同学就是因为经历过那个打暑假工的辛苦才知道努力的重要性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-16" target="HQ7Udl6bZPB1m5nYYWy9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-16" value="所以才知道要如何努力，并且你还有减肥，现在太胖了对你的生活已经开始有影响了" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-18" target="HQ7Udl6bZPB1m5nYYWy9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-18" value="又不是叫你做一辈子，急什么呢" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQ7Udl6bZPB1m5nYYWy9-20" target="HQ7Udl6bZPB1m5nYYWy9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-20" value="难道几个月你都做不了吗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Udl6bZPB1m5nYYWy9-22" value="而且你这么聪明还怕这个吗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uf1ThOEdcKUl4cuZqR92" name="第 3 页">
+    <mxGraphModel dx="1506" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
