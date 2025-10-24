@@ -419,8 +419,14 @@
         <mxCell id="Ve60eCvlbyGlXYz6HCkA-15" value="月入百万" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ve60eCvlbyGlXYz6HCkA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ve60eCvlbyGlXYz6HCkA-17" target="Ve60eCvlbyGlXYz6HCkA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ve60eCvlbyGlXYz6HCkA-17" value="你为什么要月入百万，你要月入百万做什么呢？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve60eCvlbyGlXYz6HCkA-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
